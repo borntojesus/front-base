@@ -1,0 +1,22 @@
+{
+  "name": "front-base",
+  "version": "1.0.0",
+  "description": "base layout start",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/borntojesus/front-base.git"
+  },
+  "keywords": [
+    "frontend"
+  ],
+  "author": "Dmitry Antonyuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/borntojesus/front-base/issues"
+  },
+  "homepage": "https://github.com/borntojesus/front-base#readme"
+}
